@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Hanine 👋
 
-<!--
-**haninedhib-cyber/haninedhib-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telecommunications engineering student at ENIT, focused on networking, cybersecurity, and cloud.
 
-Here are some ideas to get you started:
+### What I work on
+- Network labs: routing, VLANs, OSPF, ACLs
+- Cybersecurity: CTFs, web security
+- Cloud and AI: hands-on workshops and labs
+- Linux administration and Python scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Community
+- Senior member at G2FOSS
+- Member at Securinets ENIT
+- Participated in CTFs and workshops on cybersecurity, cloud, AI, and networking
+
+### Contact
+- Email: haninedhib2004@gmail.com
