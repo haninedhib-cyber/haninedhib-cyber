@@ -1,59 +1,50 @@
-Hi, I'm Hanin Edhib 👋
+# Hi, I'm Hanin Edhib 👋
 
-🎓 Telecommunications Engineering Student @ ENIT
-🌐 Networking | Cybersecurity | Systems
+🎓 **Telecommunications Engineering Student @ ENIT**  
+🌐 **Networking | Cybersecurity | AI Security**
 
-I am a Telecommunications Engineering student at the National School of Engineers of Tunis (ENIT), interested in networking, cybersecurity and computer systems.
+I am a Telecommunications Engineering student at the **National School of Engineers of Tunis (ENIT)**, interested in networking, cybersecurity and emerging technologies.
 
-I enjoy learning through hands-on projects, technical challenges, CTFs and workshops.
+I enjoy learning through hands-on projects, CTFs, technical workshops and practical experimentation.
 
-🛠️ Areas of Interest
+---
 
-🌐 Networking
+## 🛠️ Areas I'm Working On
 
-TCP/IP & OSI
+### 🌐 Networking
+- TCP/IP & OSI models
+- IPv4 / IPv6
+- Routing & switching
+- VLANs
+- OSPF
+- ACLs
+- Cisco networking
+- Network troubleshooting
 
-IPv4 / IPv6
+### 🔒 Cybersecurity
+- CTFs
+- Web security
+- Network security
+- Linux security
+- Digital forensics
+- Security fundamentals
 
-Routing & Switching
+### 🤖 AI Security
+- LLM security
+- Fine-tuning
+- Data poisoning
+- Model behavior analysis
 
-VLANs
+### 💻 Programming & Systems
+- Python
+- C / C++
+- Java
+- Linux
+- Git & GitHub
 
-OSPF
+---
 
-ACLs
-
-Cisco networking
-
-Network troubleshooting
-
-🔒 Cybersecurity
-
-Network security
-
-Web security
-
-Linux security
-
-Digital forensics
-
-CTFs
-
-Security fundamentals
-
-💻 Programming & Systems
-
-Python
-
-C / C++
-
-Java
-
-Linux
-
-Git & GitHub
-
-💻 Technologies
+## 💻 Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -63,34 +54,42 @@ Git & GitHub
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
-📜 Certifications
+---
 
-Cisco CCNAv7 — Introduction to Networks (ITN)
+## 📜 Certifications
 
-🏫 Education
+- **Cisco CCNAv7 — Introduction to Networks (ITN)**
 
-National School of Engineers of Tunis (ENIT)
-Telecommunications Engineering
+---
 
-Institut Préparatoire aux Études d'Ingénieurs de Nabeul (IPEIN)
-Preparatory Engineering Studies
+## 🏆 Community & Activities
 
-🌱 Community & Activities
+- **IEEE ENIT**
+- **G2FOSS**
+- **Securinets ENIT**
+- Cybersecurity CTFs
+- Technical workshops and training sessions
 
-IEEE ENIT
+---
 
-G2FOSS
+## 📚 Education
 
-Securinets ENIT
+**National School of Engineers of Tunis (ENIT)**  
+*Telecommunications Engineering*
 
-Cybersecurity CTFs
+**Institut Préparatoire aux Études d'Ingénieurs de Nabeul (IPEIN)**  
+*Preparatory Engineering Studies*
 
-Technical workshops and training sessions
+---
 
-📫 Contact
-📧 Email: haninedhib2004@gmail.com
+## 📫 Contact
+
+📧 **Email:** haninedhib2004@gmail.com  
 
 
-📧 Email: haninedhib2004@gmail.com
+---
+
+> *Learning. Building. Securing.*
